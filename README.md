@@ -1,1 +1,3 @@
 # Indian-E-ecommerce-website-order-and-trand-analysis
+
+This project analyzed data from an Indian e-commerce website to understand trends in customer orders and behavior. The analysis focused on various aspects of the website's operations, including sales data, customer demographics, and product categories. The goal of the project was to identify patterns and trends in the data and to use this information to inform business decisions related to marketing, product development, and other strategic areas. The project provided valuable insights into the performance of the e-commerce website and helped the company to better understand its customer base and optimize its operations.
